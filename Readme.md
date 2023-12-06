@@ -15,3 +15,7 @@ Depending on the language you want to build, VS code lets you install the requir
 
 ## Tested so far
 - Build and debug powershell script in the docker container via Visual Studio Code
+
+## To Do
+- SSH public key authentication. By now, password has to be entered several times for connecting to the container
+- Preinstalled Visual Studio Code extensions (powershell, C#/.Net)
